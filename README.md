@@ -1,4 +1,4 @@
-# Hi, I'm Aditya! 👋
+# Hi, I'm Aditya! 
 
 ### Python Developer | AI Automation Engineer | Agentic AI Enthusiast
 
@@ -27,7 +27,7 @@ I enjoy building automation solutions, integrating REST APIs, developing AI-powe
 | AI | Agentic AI, AI Agents, Prompt Engineering |
 | ITSM | ServiceNow, Jira |
 
-### 🚀 Areas of Projects
+###  Areas of Projects
 
 - Python Automation Framework
 - REST API Automation
@@ -36,13 +36,13 @@ I enjoy building automation solutions, integrating REST APIs, developing AI-powe
 - Ansible Automation
 - Cloud Automation
 
-### 📜 Certifications
+### Certifications
 
 - Microsoft Azure Administrator (AZ-104)
 - Microsoft Power BI Data Analyst (PL-300)
 - ITIL 4 Foundation
 
-### 🎯 Current Learning Goals
+###  Current Learning Goals
 
 - Advanced Python Development
 - Agentic AI and AI Agents
@@ -50,10 +50,9 @@ I enjoy building automation solutions, integrating REST APIs, developing AI-powe
 - AI-powered Automation
 - Cloud and DevOps Engineering
 
-### 🤝 Connect With Me
+### Connect With Me
 
 - GitHub: [@dara-aditya](https://github.com/dara-aditya)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and projects.
