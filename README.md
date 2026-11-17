@@ -1,4 +1,4 @@
-# Hi, I'm Aditya! 
+# Hi, I'm Aditya!
 
 ### Python Developer | AI Automation Engineer | Agentic AI Enthusiast
 
@@ -6,7 +6,7 @@ I'm a Software Engineer with 4+ years of experience in automation, Python develo
 
 I enjoy building automation solutions, integrating REST APIs, developing AI-powered workflows, and simplifying repetitive IT operations.
 
-### 💼 Professional Experience
+### Professional Experience
 
 - Working with HCLTech.
 - Python automation and scripting.
@@ -14,7 +14,7 @@ I enjoy building automation solutions, integrating REST APIs, developing AI-powe
 - REST API integrations and ITSM automation.
 - Cloud and DevOps automation.
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 | Category | Technologies |
 |---|---|
@@ -27,7 +27,7 @@ I enjoy building automation solutions, integrating REST APIs, developing AI-powe
 | AI | Agentic AI, AI Agents, Prompt Engineering |
 | ITSM | ServiceNow, Jira |
 
-###  Areas of Projects
+### Areas of Projects
 
 - Python Automation Framework
 - REST API Automation
@@ -42,7 +42,7 @@ I enjoy building automation solutions, integrating REST APIs, developing AI-powe
 - Microsoft Power BI Data Analyst (PL-300)
 - ITIL 4 Foundation
 
-###  Current Learning Goals
+### Current Learning Goals
 
 - Advanced Python Development
 - Agentic AI and AI Agents
@@ -55,4 +55,3 @@ I enjoy building automation solutions, integrating REST APIs, developing AI-powe
 - GitHub: [@dara-aditya](https://github.com/dara-aditya)
 
 ---
-
